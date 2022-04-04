@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p-velasquez
 - 👀 I’m interested in the mobile and web development
 - 🌱 I’m currently learning Dart with the Flutter SDK!
-- 📫 How to reach me:
+- 📫 How to reach me: contacto.pvelasquez@gmail.com
 
 <!---
 p-velasquez/p-velasquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
