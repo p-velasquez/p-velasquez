@@ -8,8 +8,6 @@ p-velasquez/p-velasquez is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2>👋 Hi, I’m Pablo.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
