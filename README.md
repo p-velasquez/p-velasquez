@@ -34,10 +34,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="justify">
+<p align="center">
 <a href="https://github.com/p-velasquez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p-velasquez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p-velasquez&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
