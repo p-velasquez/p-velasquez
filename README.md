@@ -35,17 +35,19 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
-<a href="https://github.com/p-velasquez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-velasquez&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-velasquez&theme=tokyonight&layout=compact" />
-</a>
+<p align="center">
+  <a href="https://github.com/p-velasquez">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-velasquez&theme=tokyonight&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-velasquez&theme=tokyonight&layout=compact" />
+  </a>
+</p>
 
 <br/>
 
 <h3> 🤝 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.pvelasquez.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/p-velasquezr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Velasquez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:contacto.pvelasquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.pvelasquez@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.pvelasquez.com-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/p-velasquezr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Velasquez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:contacto.pvelasquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.pvelasquez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
