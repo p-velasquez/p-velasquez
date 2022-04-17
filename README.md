@@ -1,13 +1,16 @@
-<h2>👋 Hi, I’m Pablo.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## 👋 Hi, I’m Pablo.
+
+
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🤔 &nbsp; Focused on Learning Everything you Need to be a Mobile Developer.
 - 🎓 &nbsp; Finishing my Programmer Analyst studies at INACAP.
 - 💼 &nbsp; Working as a Mobile Developer at ATRIA TECHNOLOGIES SpA.
 - 🌱 &nbsp; Learning Dart with the Flutter SDK.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -35,6 +38,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/p-velasquez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p-velasquez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,7 +48,7 @@
 
 <br/>
 
-<h3> 🤝 &nbsp;Connect with Me </h3>
+### 🤝 &nbsp;Connect with Me </h3>
 
 <p align="center">
   <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.pvelasquez.com-blue?style=flat-square&logo=google-chrome"></a>
