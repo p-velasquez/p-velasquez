@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Focused on Learning Everything you Need to be a Mobile Developer.
 - 🎓 &nbsp; Finishing my Programmer Analyst studies at INACAP.
 - 💼 &nbsp; Working as a Mobile Developer at ATRIA TECHNOLOGIES SpA.
 - 🌱 &nbsp; Learning Dart with the Flutter SDK.
