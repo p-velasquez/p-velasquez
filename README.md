@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🤔 &nbsp; Focused on Learning Everything you Need to be a Mobile Developer.
-- 🎓 &nbsp; Finishing my Sotware Developer studies at INACAP.
+- 🎓 &nbsp; Finishing my Software Developer studies at INACAP.
 - 💼 &nbsp; Working as a Mobile Developer at ATRIA TECHNOLOGIES SpA.
 - 🌱 &nbsp; Learning Dart with the Flutter SDK.
 
