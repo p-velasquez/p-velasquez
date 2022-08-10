@@ -2,9 +2,9 @@
 ## 👋 Hi, I’m Pablo.
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🎓 &nbsp; Finishing my Software Developer studies at INACAP.
-- 💼 &nbsp; Working as a Mobile Developer at ATRIA TECHNOLOGIES SpA.
-- 🌱 &nbsp; Learning Dart with the Flutter SDK.
+- 🎓 &nbsp; Studying Software Engineering at INACAP.
+- 💼 &nbsp; Working as a Fullstack Developer at BBR an Evertec Company.
+- 🌱 &nbsp; Learning Spring Framework.
 
 ### 🛠️ &nbsp;Tech Stack
 - &nbsp;
