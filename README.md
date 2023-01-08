@@ -4,7 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Studying Software Engineering at INACAP.
 - 💼 &nbsp; Working as a Fullstack Developer at BBR an Evertec Company.
-- 🌱 &nbsp; Learning Spring Framework.
 
 ### 🛠️ &nbsp;Tech Stack
 - &nbsp;
