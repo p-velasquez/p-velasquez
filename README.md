@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🎓 &nbsp; Studying Software Engineering at INACAP.
-- 💼 &nbsp; Working as a Fullstack Developer at BBR an Evertec Company.
+- 💼 &nbsp; Working as a Fullstack Developer at 3IT.
 
 ### 🛠️ &nbsp;Tech Stack
 - &nbsp;
