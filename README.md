@@ -40,7 +40,7 @@
 
 ### 🤝 &nbsp;Connect with Me </h3>
 <p align="center">
-  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-www.pvelasquez.com-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://pvelasquez.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.pvelasquez.com-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/p-velasquezr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pablo%20Velasquez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:contacto.pvelasquez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contacto.pvelasquez@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
