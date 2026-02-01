@@ -17,7 +17,7 @@ Based in Chile 🇨🇱 — open to remote and international opportunities.
 **Backend:** Spring Boot, FastAPI  
 **Frontend:** Angular  
 **Cloud & DevOps:** Docker, Jenkins, Azure, Linux, Nginx  
-**Databases:** MySQL  
+**Databases:** MySQL, PostgreSQL, MongoDB
 **Security:** OAuth2, secure API design
 
 ---
